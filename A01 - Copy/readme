@@ -1,0 +1,9 @@
+I personally struggled with the rule of three despite numerous individuals trying to help me so any feedback would be greatly appericated!
+I also am aware of data leaks in my code. When you look at the output, it adds an extra value at the end but my getSize and isEmpty functions work as they should.
+
+The only two things I could not figure out are:
+- sorting
+- rule of three
+
+So any feedback as to how I can do them better in this assignment would be amazing. I know I cannot get a resubmission but it is important for me to perfect this 
+assignment so I can have a better understanding moving forward.
